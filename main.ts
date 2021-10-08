@@ -13,3 +13,6 @@ basic.showString("cody")
 basic.forever(function () {
 	
 })
+basic.forever(function () {
+	
+})
